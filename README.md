@@ -6,7 +6,7 @@
 
 # CellCycle_StochasticModel
 
-This repo contains the standardized analysis pipeline for 16S and metagenome data. It serves as a testing ground for what will be required to analyze around 500 samples.
+This repo contains details of the stochastic modelo to describe the population of cells in different phases of the cell cycle.
 
 - For suggestions, open questions and bugs please use the [issue tracker](https://github.com/cdiener/microbiome/issues).
 - Different pipelines are managed via branches. The master branch points to the default pipeline.
